@@ -1,0 +1,82 @@
+h1{
+    color:red;
+    text-decoration:underline;
+    font-weight: 40px;
+    
+    margin:20px;
+    border-color:black;
+    
+    display:block;
+}
+.info p{
+    font-size: 30px;
+    color:black;
+    text-decoration: none;
+    padding:2px;
+    margin-left: 2px;
+    text-align: left;
+    
+}
+p{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color:black;
+    border-width: 3px;
+    border-color: black;
+    display:block;
+    text-align: center;
+    
+}
+.register label{
+    color:white;
+    background-color:transparent;
+    font-size: 30px;
+    border-color: black;
+    border-radius: none;
+    text-align: center;
+}
+.register input{
+    padding: 4px;
+    margin:4px;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 5px;
+    background-color:transparent;
+    color:black;
+    font-size: 15px;
+    font-weight: bold;
+}
+.register textarea{
+    background-color:transparent;
+    border-color:yellow;
+    border-width: 5px;
+    border-radius: none;
+    color:red;
+    font-size: 15px;
+    font-weight: bold;
+}
+.register p{
+    color:yellow;
+    text-align: left;
+    font-size: 30px;
+    background-color: darkkhaki;
+    display: inline-block;
+}
+body{
+    background-image: url(InShot_20240225_231039561.jpg);
+    min-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.register input[type="submit"]{
+    width:100px;
+    height:40px;
+}
+::placeholder{
+    font-size:15px;
+    color:black;
+    font-weight: bold;
+}
+
