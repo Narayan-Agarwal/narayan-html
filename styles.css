@@ -79,3 +79,13 @@ body{
     color:black;
     font-weight: bold;
 }
+@media(max-width:375px;) {
+    .info{
+        height:20px;
+        font-weight:280px;
+    }
+    .register{
+        height:460px;
+        width:250px;
+    }
+}
