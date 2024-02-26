@@ -46,6 +46,7 @@ p{
     color:peachpuff;
     font-size: 15px;
     font-weight: bold;
+    
 }
 .register textarea{
     background-color:transparent;
@@ -71,6 +72,8 @@ body{
 
 }
 .register input[type="submit"]{
+    display: block;
+    margin:0 auto;
     width:100px;
     height:40px;
 }
