@@ -79,13 +79,21 @@ body{
     color:black;
     font-weight: bold;
 }
-@media(max-width:375px;) {
-    .info{
-        height:20px;
-        font-weight:280px;
+@media screen and (max-width:375px;) {
+    .info p{
+        font-size: 15px;
+        color:black;
+        text-decoration: none;
+        text-align: left;
     }
-    .register{
-        height:460px;
-        width:250px;
+    p{
+        font-size: 18px;
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+        color:black;
+        border-width: 3px;
+        border-color: black;
+        display:block;
+        text-align: center;
+        
     }
 }
