@@ -160,5 +160,13 @@ body{
         
         display:block;
     }
-
+    form{
+        display: block;
+        margin:0 auto;
+    }
+    
+}
+form{
+    display: block;
+    margin:0 auto;
 }
