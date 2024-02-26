@@ -96,4 +96,12 @@ body{
         text-align: center;
         
     }
+    body{
+        background-image: url(InShot_20240225_231039561.jpg);
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+    }
 }
