@@ -18,7 +18,7 @@ h1{
     
 }
 p{
-    font-size: 30px;
+    font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif ;
     color:peachpuff;
     border-width: 3px;
@@ -98,7 +98,7 @@ body{
     }
     body{
         background-image: url(IMG-20240226-WA0021.jpg);
-        background-size: cover;
+        background-size:auto;
         background-position: center;
         background-repeat: no-repeat;
        
