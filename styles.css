@@ -98,6 +98,7 @@ body{
     }
     body{
         background-image: url(InShot_20240225_231039561.jpg);
+        background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
