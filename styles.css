@@ -10,7 +10,7 @@ h1{
 }
 .info p{
     font-size: 30px;
-    color: #cbc3e3;;
+    color: whitesmoke;
     text-decoration: none;
     padding:2px;
     margin-left: 2px;
@@ -92,7 +92,7 @@ body{
     p{
         font-size: 10px;
         font-family: Georgia, 'Times New Roman', Times, serif ;
-        color:peachpuff;
+        color:whitesmoke;
         border-width: 3px;
         border-color: black;
         display:block;
