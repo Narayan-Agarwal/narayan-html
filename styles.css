@@ -1,5 +1,5 @@
 h1{
-    color:red;
+    color:peachpuff;
     text-decoration:underline;
     font-weight: 40px;
     
@@ -10,7 +10,7 @@ h1{
 }
 .info p{
     font-size: 30px;
-    color:black;
+    color: #cbc3e3;;
     text-decoration: none;
     padding:2px;
     margin-left: 2px;
@@ -20,11 +20,12 @@ h1{
 p{
     font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif ;
-    color:black;
+    color:peachpuff;
     border-width: 3px;
     border-color: black;
     display:block;
     text-align: center;
+    text-decoration: underline;
     
 }
 .register label{
@@ -42,13 +43,13 @@ p{
     border-width: 5px;
     border-radius: 5px;
     background-color:transparent;
-    color:black;
+    color:white;
     font-size: 15px;
     font-weight: bold;
 }
 .register textarea{
     background-color:transparent;
-    border-color:yellow;
+    
     border-width: 5px;
     border-radius: none;
     color:red;
@@ -59,12 +60,11 @@ p{
     color:yellow;
     text-align: left;
     font-size: 30px;
-    background-color: darkkhaki;
     display: inline-block;
 }
 body{
-    background-image: url(InShot_20240225_231039561.jpg);
-    min-width: 100%;
+    background-image: url(IMG-20240226-WA0021.jpg);
+    
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -76,32 +76,32 @@ body{
 }
 ::placeholder{
     font-size:15px;
-    color:black;
+    color:white;
     font-weight: bold;
 }
 @media screen and (max-width:375px;) {
     .info p{
         font-size: 10px;
-        color:black;
+        color:white;
         text-decoration: none;
         text-align: left;
     }
     p{
         font-size: 10px;
         font-family: Georgia, 'Times New Roman', Times, serif ;
-        color:black;
+        color:peachpuff;
         border-width: 3px;
         border-color: black;
         display:block;
         text-align: center;
-        
+        font-weight: bold;
     }
     body{
-        background-image: url(InShot_20240225_231039561.jpg);
+        background-image: url(IMG-20240226-WA0021.jpg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        background-size: cover;
+       
     
     }
 }
